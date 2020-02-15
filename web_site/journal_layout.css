@@ -1,0 +1,51 @@
+body {
+    padding-left: 120px;
+    padding-right: 120px;
+    background-image: url("images/background.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#orangeBorderID {
+    font-size: 23px;
+    margin-bottom: 3px;
+    padding-left: 82%;
+    text-align: right;
+    
+}
+
+#redBorderID {
+    background-color: #A8F0F0;
+    padding: 3px;
+    margin-bottom: 1px;
+    text-align: right;
+}
+
+#greenBorderID {
+    border: 10px white solid;
+    background-color: white;
+}
+
+.blueBorderClass {
+    border: 4px #C2E9E9 solid;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: 20%;
+}
+
+.friendBorderClass {
+    border: 4px rgb(27, 194, 194) solid;
+    background-color: rgb(113, 236, 236);
+    padding: 5px;
+    padding-bottom: 40px;
+    padding-right: 40px;
+    margin-top: 10px;
+    float: left;
+}
+
+
+.purpleBorderClass {
+    border-bottom: 2px blue dashed;
+}
+

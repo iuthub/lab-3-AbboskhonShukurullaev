@@ -29,11 +29,14 @@ h1, h2 {
 	font-family: "Century Gothic";
 	margin: 3px;
 	padding: 0px;
+	text-align: right;
 }
 
 img {
 	border-style: none;
 	padding: 5px;
+	position: relative;
+	left: 75%;
 }
 
 ul {
